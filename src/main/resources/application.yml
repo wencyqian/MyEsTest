@@ -1,0 +1,9 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 127.0.0.1:9300
+  application:
+    name: MyEsTest
+
+server:
+  port: 8066
